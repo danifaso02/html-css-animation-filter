@@ -80,9 +80,6 @@
 .ex-10-icon:hover{
     transform: rotate(360deg);
     transition: 2s;
-    transition-delay: now;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
 }
 .ex-11-icon {
     font-size: 60px;
